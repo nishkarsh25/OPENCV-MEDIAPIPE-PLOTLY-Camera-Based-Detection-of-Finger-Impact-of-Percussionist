@@ -34,7 +34,7 @@ This project introduces a non-invasive, camera-based system that tracks finger j
 
 ## Report
 
-You can view the detailed project report [here]([https://your-pdf-link.com](https://res.cloudinary.com/drkwwvdoe/image/upload/v1745244075/Cpastone_2_ha01sj.pdf)).
+You can view the detailed project report [here](https://res.cloudinary.com/drkwwvdoe/image/upload/v1745244075/Cpastone_2_ha01sj.pdf)
 
 ## Folder Structure
 
@@ -69,7 +69,7 @@ You can view the detailed project report [here]([https://your-pdf-link.com](http
 
 ```
 
-## Screenshots
+## Screenshot/Pipleine/Results
 
 <img src="https://github.com/nishkarsh25/OPENCV-MEDIAPIPE-PLOTLY-Camera-Based-Detection-of-Finger-Impact-of-Percussionist/blob/main/LeftHandPinkyFinger.png?raw=true" alt="Screenshot 1" width="1000">
 
